@@ -11,6 +11,7 @@ Type - GET
 Endpoint - https://fullstack-tester.herokuapp.com/products
 
 Sample resulgt from endpoint
+```
 [
 {
 "name": "ff",
@@ -25,3 +26,4 @@ Sample resulgt from endpoint
 "__v": 0
 }
 ]
+```
